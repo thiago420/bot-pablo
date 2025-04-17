@@ -80,7 +80,7 @@ client.on(Events.InteractionCreate, async interaction => {
     let apiJson;
 
     const csApi = axios.create({
-        baseURL: 'https://bymykel.github.io/CSGO-API/api/en/'
+        baseURL: 'https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/'
     });
 
     await csApi.get('crates.json')

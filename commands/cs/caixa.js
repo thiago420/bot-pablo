@@ -207,7 +207,7 @@ module.exports = {
                 .setStyle(ButtonStyle.Primary);
 
             const buttonLink = new ButtonBuilder()
-                .setURL(`https://thiago420.github.io/botPabloWeb/webCase/visualizerCase/visualizer.html?id=${caixaSelecionada.id}`)
+                .setURL(`https://thiago420.github.io/bot-pablo-web/webCase/visualizerCase/visualizer.html?id=${caixaSelecionada.id}`)
                 .setLabel("Visualizar caixa no navegador")
                 .setStyle(ButtonStyle.Link);
 
@@ -370,7 +370,7 @@ module.exports = {
             await db.collection("botPablo").doc(codigo16).set(itemSelecionado);
 
             const buttonLink = new ButtonBuilder()
-                .setURL(`https://thiago420.github.io/botPabloWeb/webCase/rouletteCase/roulette.html?id=${codigo16}`)
+                .setURL(`https://thiago420.github.io/bot-pablo-web/webCase/rouletteCase/roulette.html?id=${codigo16}`)
                 .setLabel("Abrir caixa no navegador")
                 .setStyle(ButtonStyle.Link);
 
