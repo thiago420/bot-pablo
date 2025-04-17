@@ -1,0 +1,4 @@
+/node_modules
+.env
+firebaseAdminConfig.json
+/python/__pycache__

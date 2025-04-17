@@ -1,0 +1,320 @@
+[#605184] 
+user: amthypc (393144205620412416) 
+case: Operation Bravo Case 
+item: P90 | Emerald Dragon 
+mode: Discord 
+requestedAt: 18/03/2025, 08:50:03 
+openedAt: 18/03/2025, 08:50:07
+
+[#583556] 
+user: amthypc (393144205620412416) 
+case: DreamHack 2013 Souvenir Package 
+item: MP7 | Anodized Navy 
+mode: Web 
+requestedAt: 18/03/2025, 08:50:38 
+openedAt: 18/03/2025, 08:50:50 
+openedByUser: true 
+databaseId: RtzQfn7kH28RUIFx
+
+[#464211] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: ★ Karambit | Fade 
+mode: Web 
+requestedAt: 18/03/2025, 08:50:59 
+openedAt: 18/03/2025, 08:52:04 
+openedByUser: false 
+databaseId: FoQNq1GCbCHmb8Li
+
+[#729566] 
+user: amthypc (393144205620412416) 
+case: Shanghai 2024 Contenders Autograph Capsule 
+item: aliStair | Shanghai 2024 
+mode: Discord 
+requestedAt: 18/03/2025, 08:56:57 
+openedAt: 18/03/2025, 08:57:02
+
+[#077487] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: AK-47 | Red Laminate 
+mode: Web 
+requestedAt: 18/03/2025, 12:10:05 
+openedAt: 18/03/2025, 12:10:22 
+openedByUser: true 
+databaseId: zEXsm9e4YhJIv3yu
+
+[#836444] 
+user: amthypc (393144205620412416) 
+case: Sticker Capsule 
+item: Lucky 13 
+mode: Discord 
+requestedAt: 18/03/2025, 12:13:49 
+openedAt: 18/03/2025, 12:13:53
+
+[#825528] 
+user: amthypc (393144205620412416) 
+case: eSports 2014 Summer Case 
+item: XM1014 | Red Python 
+mode: Discord 
+requestedAt: 18/03/2025, 13:39:56 
+openedAt: 18/03/2025, 13:40:01
+
+[#730916] 
+user: amthypc (393144205620412416) 
+case: CS:GO Weapon Case 
+item: ★ M9 Bayonet | Safari Mesh 
+mode: Discord 
+requestedAt: 28/03/2025, 23:04:37 
+openedAt: 28/03/2025, 23:04:41
+
+[#020347] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: P90 | Death by Kitty 
+mode: Discord 
+requestedAt: 28/03/2025, 23:09:14 
+openedAt: 28/03/2025, 23:09:18
+
+[#423715] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: AK-47 | Red Laminate 
+mode: Discord 
+requestedAt: 28/03/2025, 23:09:25 
+openedAt: 28/03/2025, 23:09:29
+
+[#344986] 
+user: amthypc (393144205620412416) 
+case: CS:GO Weapon Case 2 
+item: Five-SeveN | Case Hardened 
+mode: Web 
+requestedAt: 28/03/2025, 23:11:32 
+openedAt: 28/03/2025, 23:11:49 
+openedByUser: true 
+databaseId: 7EFGjr7YWxOKyc29
+
+[#556375] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: ★ M9 Bayonet 
+mode: Web 
+requestedAt: 29/03/2025, 18:04:28 
+openedAt: 29/03/2025, 18:04:45 
+openedByUser: true 
+databaseId: IwsOF1BgrCsB5j9U
+
+[#776403] 
+user: amthypc (393144205620412416) 
+case: Antwerp 2022 Contenders Autograph Capsule 
+item: dav1d (Glitter) | Antwerp 2022 
+mode: Discord 
+requestedAt: 29/03/2025, 18:05:58 
+openedAt: 29/03/2025, 18:06:03
+
+[#607134] 
+user: amthypc (393144205620412416) 
+case: Rio 2022 Legends Autograph Capsule 
+item: Perfecto (Glitter) | Rio 2022 
+mode: Web 
+requestedAt: 29/03/2025, 21:53:11 
+openedAt: 29/03/2025, 21:54:16 
+openedByUser: false 
+databaseId: jKd0EUMsEwzVFsNh
+
+[#277082] 
+user: amthypc (393144205620412416) 
+case: Shanghai 2024 Contenders Autograph Capsule 
+item: Kaze (Glitter) | Shanghai 2024 
+mode: Web 
+requestedAt: 29/03/2025, 21:54:34 
+openedAt: 29/03/2025, 21:55:38 
+openedByUser: false 
+databaseId: YX1fN94FkN363S6P
+
+[#103336] 
+user: amthypc (393144205620412416) 
+case: Kilowatt Case 
+item: XM1014 | Irezumi 
+mode: Web 
+requestedAt: 30/03/2025, 00:15:58 
+openedAt: 30/03/2025, 00:16:20 
+openedByUser: true 
+databaseId: j0NU1oFw38Sa1WeB
+
+[#034677] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: AWP | BOOM 
+mode: Web 
+requestedAt: 30/03/2025, 23:30:32 
+openedAt: 30/03/2025, 23:31:05 
+openedByUser: true 
+databaseId: rV3jYMDdTj0qTodB
+
+[#070704] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Winter Case 
+item: ★ Flip Knife | Forest DDPAT 
+mode: Web 
+requestedAt: 30/03/2025, 23:31:39 
+openedAt: 30/03/2025, 23:32:44 
+openedByUser: false 
+databaseId: nSHIyDZLhg3ps5RG
+
+[#196130] 
+user: amthypc (393144205620412416) 
+case: Sticker Capsule 2 
+item: Have Fun 
+mode: Web 
+requestedAt: 30/03/2025, 23:33:44 
+openedAt: 30/03/2025, 23:34:07 
+openedByUser: true 
+databaseId: 5y4q60T4AZxP7Kok
+
+[#165963] 
+user: amthypc (393144205620412416) 
+case: NIGHTMODE Music Kit Box 
+item: Music Kit | DRYDEN, Feel The Power 
+mode: Web 
+requestedAt: 30/03/2025, 23:35:26 
+openedAt: 30/03/2025, 23:35:54 
+openedByUser: true 
+databaseId: SnTU9jZJOrqQ7FfB
+
+[#899325] 
+user: amthypc (393144205620412416) 
+case: Perfect World Graffiti Box 
+item: Shaolin 
+mode: Web 
+requestedAt: 30/03/2025, 23:37:06 
+openedAt: 30/03/2025, 23:37:33 
+openedByUser: true 
+databaseId: p3UDOWmhZrvvGalS
+
+[#343189] 
+user: amthypc (393144205620412416) 
+case: Perfect World Graffiti Box 
+item: Non-Veg 
+mode: Web 
+requestedAt: 30/03/2025, 23:50:50 
+openedAt: 30/03/2025, 23:51:18 
+openedByUser: true 
+databaseId: NoXW7Q6q0pJ7OV4r
+
+[#141578] 
+user: amthypc (393144205620412416) 
+case: Chroma 2 Case 
+item: MAC-10 | Neon Rider 
+mode: Web 
+requestedAt: 31/03/2025, 00:04:51 
+openedAt: 31/03/2025, 00:05:34 
+openedByUser: true 
+databaseId: b1svgfHbksTRNtKR
+
+[#962485] 
+user: amthypc (393144205620412416) 
+case: CS:GO Weapon Case 
+item: MP7 | Skulls 
+mode: Web 
+requestedAt: 31/03/2025, 01:02:49 
+openedAt: 31/03/2025, 01:03:06 
+openedByUser: true 
+databaseId: BKXVxpkDqZgdgtuG
+
+[#564373] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: P250 | Splash 
+mode: Web 
+requestedAt: 31/03/2025, 01:10:07 
+openedAt: 31/03/2025, 01:10:29 
+openedByUser: true 
+databaseId: JlxySSmUDBxYXY0J
+
+[#472191] 
+user: amthypc (393144205620412416) 
+case: Sticker Capsule 
+item: Easy Peasy 
+mode: Web 
+requestedAt: 31/03/2025, 01:11:58 
+openedAt: 31/03/2025, 01:12:15 
+openedByUser: true 
+databaseId: XTFrt2lZ7BP8H2iR
+
+[#622987] 
+user: amthypc (393144205620412416) 
+case: Operation Bravo Case 
+item: M4A1-S | Bright Water 
+mode: Discord 
+requestedAt: 31/03/2025, 01:18:25 
+openedAt: 31/03/2025, 01:18:30
+
+[#986107] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: Galil AR | Orange DDPAT 
+mode: Web 
+requestedAt: 31/03/2025, 05:14:08 
+openedAt: 31/03/2025, 05:15:13 
+openedByUser: false 
+databaseId: K4UdYDtCNTal8lAc
+
+[#741810] 
+user: amthypc (393144205620412416) 
+case: CS:GO Weapon Case 2 
+item: FAMAS | Hexane 
+mode: Web 
+requestedAt: 31/03/2025, 05:29:45 
+openedAt: 31/03/2025, 05:30:50 
+openedByUser: false 
+databaseId: iYBHqi1Bpy2GQYpB
+
+[#790676] 
+user: amthypc (393144205620412416) 
+case: CS:GO Weapon Case 2 
+item: Nova | Graphite 
+mode: Web 
+requestedAt: 31/03/2025, 05:31:46 
+openedAt: 31/03/2025, 05:32:08 
+openedByUser: true 
+databaseId: hEerHQSRuRIsu5Ya
+
+[#996768] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: FAMAS | Doomkitty 
+mode: Web 
+requestedAt: 05/04/2025, 14:22:35 
+openedAt: 05/04/2025, 14:23:40 
+openedByUser: false 
+databaseId: aqXdPfVdYNOEksk8
+
+[#633044] 
+user: amthypc (393144205620412416) 
+case: eSports 2013 Case 
+item: AWP | BOOM 
+mode: Web 
+requestedAt: 05/04/2025, 14:36:52 
+openedAt: 05/04/2025, 14:37:30 
+openedByUser: true 
+databaseId: qw0et2rpwoetgUsU
+
+[#278798] 
+user: amthypc (393144205620412416) 
+case: CS:GO Weapon Case 3 
+item: CZ75-Auto | Victoria 
+mode: Web 
+requestedAt: 06/04/2025, 04:01:22 
+openedAt: 06/04/2025, 04:01:39 
+openedByUser: true 
+databaseId: 7nvgedj0Cz2hSnDK
+
+[#542865] 
+user: pespigamer2013 (1360695561166000333) 
+case: eSports 2013 Case 
+item: AK-47 | Red Laminate 
+mode: Discord 
+requestedAt: 12/04/2025, 17:06:52 
+openedAt: 12/04/2025, 17:06:56
+
