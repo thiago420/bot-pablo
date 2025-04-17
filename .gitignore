@@ -1,5 +1,5 @@
-/node_modules
+node_modules
 .env
 firebaseAdminConfig.json
 python/__pycache__
-logs/logCases.txt
+logs
