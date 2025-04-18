@@ -318,7 +318,7 @@ module.exports = {
             });
 
             const buttonLink = new ButtonBuilder()
-                .setURL(`https://thiago420.github.io/bot-pablo-web/inspectRedirector/inspect.html?url=${link.match(/steam:\/\/rungame\/730\/76561202255233023\/\+csgo_econ_action_preview%20([A-Za-z0-9]+)/)[1]}`)
+                .setURL(`https://steam-link-redirect.vercel.app/?url=${link.match(/steam:\/\/rungame\/730\/76561202255233023\/\+csgo_econ_action_preview%20([A-Za-z0-9]+)/)[1]}`)
                 .setLabel("Inspecionar no jogo")
                 .setStyle(ButtonStyle.Link);
 
